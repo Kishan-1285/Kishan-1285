@@ -51,11 +51,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Kishan-1285&theme=tokyonight)
-
----
 
 ## 📊 Most Used Languages
 
